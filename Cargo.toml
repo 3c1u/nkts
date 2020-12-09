@@ -41,7 +41,7 @@ objc = "0.2.7"
 core-foundation = "0.9.1"
 
 [dev-dependencies]
-png = "0.16.7"
+png = "0.16.8"
 
 [profile.dev]
 opt-level = 1

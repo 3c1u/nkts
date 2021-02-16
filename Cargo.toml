@@ -33,7 +33,7 @@ lru = "0.6.1"
 rayon = "1.5.0"
 miniserde = "0.1.13"
 thiserror = "1.0.22"
-rusty_v8 = "0.12.0"
+rusty_v8 = "0.19.0"
 
 [target.'cfg(target_os = "macos")'.dependencies]
 cocoa = "0.24.0"
